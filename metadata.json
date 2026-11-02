@@ -1,0 +1,6 @@
+{
+  "name": "Forex Pro Simulator",
+  "description": "Professional Forex Portfolio & Investment Strategy Simulator with demo packages, trading profit/loss analytics, and an interactive admin control desk.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
